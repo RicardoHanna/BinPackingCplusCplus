@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659867369 source:c:\users\ant\documents\onenote notebooks\labbinpacking\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<functional>
+	<algorithm>
+
